@@ -1,6 +1,6 @@
 {
-    "name": "buzznews_app",
-    "short_name": "buzznews_app",
+    "name": "headline_news",
+    "short_name": "headline_news",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

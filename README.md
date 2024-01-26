@@ -1,16 +1,21 @@
-# buzznews_app
+# headline_news
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/home.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/category.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/detail.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/search.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/bookmark.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/webview.jpg" width="256">&nbsp;&nbsp;
 
-This project is a starting point for a Flutter application.
+### How To Run This Project
+1. Extract Project
+2. Flutter pub get in Terminal
+3. Add ApiKey in common\config.dart
+4. If get error "certifcates not valid", you can export the certificates from https://newsapi.org and replace file in folder certificates
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How To Run Test This Project
+1. Add ApiKey in test\data\datasources\article_remote_data_source_test.dart
+2. "flutter test" to run unit test
+3. "flutter test integration_test" to run integration test
