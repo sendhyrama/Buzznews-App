@@ -29,7 +29,13 @@
 - If get error ```certificates not valid```, you can export the certificates from https://newsapi.org and replace file in folder certificates
 
 
-### Run Test
-- Add ApiKey in test\data\datasources\article_remote_data_source_test.dart
-- "flutter test" to run unit test
-- "flutter test integration_test" to run integration test
+### Run Unit & Integration Test
+- Add ApiKey in ```test\data\datasources\article_remote_data_source_test.dart```
+- Run unit test
+```
+flutter test
+```
+- Run integration test
+```
+flutter test integration_test
+```
