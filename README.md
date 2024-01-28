@@ -1,13 +1,13 @@
 # headline_news
 
-## Screenshots
+### Preview Screen
 
-<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/home.jpg" width="256">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/category.jpg" width="256">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/detail.jpg" width="256">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/search.jpg" width="256">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/bookmark.jpg" width="256">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/headline_news/blob/main/screenshots/webview.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/sendhyrama/Buzznews-App/blob/main/screenshots/home.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/sendhyrama/Buzznews-App/blob/main/screenshots/category.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/sendhyrama/Buzznews-App/blob/main/screenshots/detail.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/sendhyrama/Buzznews-App/blob/main/screenshots/search.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/sendhyrama/Buzznews-App/blob/main/screenshots/bookmark.jpg" width="256">&nbsp;&nbsp;
+<img src="https://github.com/sendhyrama/Buzznews-App/blob/main/screenshots/webview.jpg" width="256">&nbsp;&nbsp;
 
 ### How To Run This Project
 1. Extract Project
